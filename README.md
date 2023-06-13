@@ -36,3 +36,4 @@ Documentation and Reporting:
 Document your findings, observations, and insights throughout the EDA process. Prepare a summary report or presentation that highlights the key findings, visualizations, and important takeaways from the analysis.
 
 By performing EDA on the Terrorism dataset, you can gain a comprehensive understanding of the data and uncover valuable insights. This analysis can assist in identifying patterns, contributing factors, and potential strategies for addressing terrorism-related issues.
+
